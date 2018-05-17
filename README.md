@@ -16,8 +16,8 @@ R-Design Demo
 - 具体使用参考Demo
 
 ### 运行效果
-<p align="center">
-    <img width="342" src="https://github.com/GankLun/RDesignDemo/blob/master/screen1.png" style="margin-left:80px">
+
+    <img width="342" src="https://github.com/GankLun/RDesignDemo/blob/master/screen1.png" style="margin-left:80px">
     <img width="342" src="https://github.com/GankLun/RDesignDemo/blob/master/screen2.png" style="margin-left:80px">
     <img width="342" src="https://github.com/GankLun/RDesignDemo/blob/master/screen3.png" style="margin-left:80px">
     <img width="342" src="https://github.com/GankLun/RDesignDemo/blob/master/screen4.png" style="margin-left:80px">
@@ -26,4 +26,4 @@ R-Design Demo
     <img width="342" src="https://github.com/GankLun/RDesignDemo/blob/master/screen7.png" style="margin-left:80px">
     <img width="342" src="https://github.com/GankLun/RDesignDemo/blob/master/screen8.png" style="margin-left:80px">
     <img width="342" src="https://github.com/GankLun/RDesignDemo/blob/master/screen9.png" style="margin-left:80px">
-</p>
+
