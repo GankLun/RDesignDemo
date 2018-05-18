@@ -24,6 +24,6 @@ R-Design Demo
     <p><img width="342" src="https://github.com/GankLun/RDesignDemo/blob/master/screen5.png"></p>
     <p><img width="342" src="https://github.com/GankLun/RDesignDemo/blob/master/screen6.png"></p>
     <p><img width="342" src="https://github.com/GankLun/RDesignDemo/blob/master/screen7.png"></p>
-    <p><img width="362" src="https://github.com/GankLun/RDesignDemo/blob/master/screen8.png"></p>
+    <p><img width="342" src="https://github.com/GankLun/RDesignDemo/blob/master/screen8.png"></p>
     <p><img width="342" src="https://github.com/GankLun/RDesignDemo/blob/master/screen9.png"></p>
 
